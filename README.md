@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Pushkar Dadasaheb Kharad 👋
 
-<!--
-**QuantumCoreDev/QuantumCoreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of GrowwMore Synergy | 14 y/o Programmer | Tech Enthusiast from Chhatrapati Sambhaji Nagar,
 
-Here are some ideas to get you started:
+🚀 I'm passionate about building innovative projects to solve real-world problems. I created GrowwMore Synergy, a tech company focused on smart solutions like Nirix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Skills
+
+Programming: C++, Python
+
+Project Development & IoT Prototyping
+
+🛠️ Projects
+
+🔗 Nirix - Smart Irrigation System: Automated, solar-powered system that controls irrigation based on real-time soil moisture data. Built for Indian farmers to save water and sleep peacefully.
+
+📫 Reach Me
+
+📧 Email: apexpushkar869@rediffmail.com
+
+🔗 LinkedIn: kharadpushkardadasaheb9
+
+⚡ Fun Facts
+
+Age: 14
+
+I run a tech company on my own
+
+Dream: To inspire youth to innovate and lead with technology
+
+"Code with heart, innovate with purpose." - Pushkar
+
