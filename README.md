@@ -1,32 +1,39 @@
-Hi, I'm Pushkar Dadasaheb Kharad 👋
+# 👋 Hi, I'm Pushkar Dadasaheb Kharad
 
-Founder & CEO of GrowwMore Synergy | 14 y/o Programmer | Tech Enthusiast from Chhatrapati Sambhaji Nagar,
+Founder & CEO of **GrowwMore Synergy**  |  14 y/o Techpreneur from Chhatrapati Sambhaji Nagar
 
-🚀 I'm passionate about building innovative projects to solve real-world problems. I created GrowwMore Synergy, a tech company focused on smart solutions like Nirix.
+🚀 I build smart, innovative tech to solve real-world problems — and inspire the youth to innovate boldly.
 
-🧠 Skills
+---
 
-Programming: C++, Python
+## 🧠 Skills & Tech Stack
+- Programming: **C++**, **Python**.
+- IoT & Embedded Systems
+---
 
-Project Development & IoT Prototyping
+## 🛠️ Flagship Projects
 
-🛠️ Projects
+### 🔗 [Nirix](https://github.com/QuantumCoreDev/Nirix) – Smart Irrigation System
+> Solar-powered system that automates irrigation using real-time soil moisture sensing.
+> Built for Indian farmers to save water & sleep peacefully.
 
-🔗 Nirix - Smart Irrigation System: Automated, solar-powered system that controls irrigation based on real-time soil moisture data. Built for Indian farmers to save water and sleep peacefully.
+### 🔗 [Axion](https://github.com/QuantumCoreDev/Axion) – Optical Quantum RNG
+> World’s youngest-built quantum random number generator using photonics + ESP32.
+> OLED + Wi-Fi entropy streaming powered by laser, beam splitter, photodiodes, and MicroPython.
 
-📫 Reach Me
+---
 
-📧 Email: apexpushkar869@rediffmail.com
+## 📫 Reach Me
+- 📧 Email: [apexpushkar869@rediffmail.com](mailto:apexpushkar869@rediffmail.com)
+- 🔗 LinkedIn: [kharadpushkardadasaheb9](https://www.linkedin.com/in/kharadpushkardadasaheb9)
 
-🔗 LinkedIn: kharadpushkardadasaheb9
+---
 
-⚡ Fun Facts
+## ⚡ Fun Facts
+- 👦 I'm 14 years old
+- 🛠️ I create real projects with real impact
 
-Age: 14
+---
 
-I run a tech company on my own
-
-Dream: To inspire youth to innovate and lead with technology
-
-"Code with heart, innovate with purpose." - Pushkar
-
+## 💬 Motto
+> "Code with heart, innovate with purpose." – Pushkar ✨
