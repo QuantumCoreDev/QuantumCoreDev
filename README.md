@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pushkar Dadasaheb Kharad
 
-Founder & CEO of **GrowwMore Synergy**  |  14 y/o Techpreneur from Chhatrapati Sambhaji Nagar
+14 y/o Techpreneur from Chhatrapati Sambhaji Nagar
 
 🚀 I build smart, innovative tech to solve real-world problems — and inspire the youth to innovate boldly.
 
@@ -35,5 +35,3 @@ Founder & CEO of **GrowwMore Synergy**  |  14 y/o Techpreneur from Chhatrapati S
 
 ---
 
-## 💬 Motto
-> "Code with heart, innovate with purpose." – Pushkar ✨
