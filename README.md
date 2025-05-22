@@ -30,15 +30,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCoreDev&layout=compact&theme=default)
 
 ---
-## With ❤ Pushkar Dadasaheb Kharad 
-
----
 
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-QuantumCoreDev-181717?style=flat-square&logo=github)](https://github.com/QuantumCoreDev)
-[![Email 1](apexpushkar869@rediffmail.com)
-[![Email 2](wepexate@gmail.com)
+
 ---
+
+## With ❤ Pushkar Dadasaheb Kharad 
+
 
 > *Keep it simple. Build what matters.*
