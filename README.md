@@ -34,15 +34,13 @@
 
 ## 🚀 My Favorite Tools and Technologies
 
-> Here's the tech stack that powers my projects – all displayed in a 9×3 animated grid!
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,python,cpp,c,github,git,vscode,linux&perline=9" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=micropython,figma,markdown,latex,bash,vercel,cloudflare,ai,raspberrypi&perline=9" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,sqlite,postman,regex,jupyter,fastapi&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,python,js,cpp,webpack,mysql,ts,aws,cs&perline=9" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=django,github,git,laravel,html,css,bootstrap,tailwind,jquery&perline=9" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,php,vs_code,wordpress,vue,sass,graphql,postgresql&perline=9" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
