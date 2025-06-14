@@ -1,79 +1,83 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00CED1;">Pushkar Dadasaheb Kharad</span></h1>
+<h1 align="center">🚀 Pushkar Dadasaheb Kharad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Student+%7C+Robotics+Enthusiast+%7C+Quantum+Explorer;Building+Intelligent+Hardware+That+Thinks...;14+y%2Fo+Innovator+From+India&center=true&width=750&height=30&font=Fira%20Code&pause=1000&color=00CED1&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CED1&width=800&center=true&lines=14+y%2Fo+Student+%7C+Hardware+Intelligence+Builder;Robotics+%7C+Quantum+Physics+%7C+AI+on+Microcontrollers;Turning+Concepts+Into+Code+%7C+Making+Machines+Think..." />
 </p>
 
 <p align="center">
-  🎓 Age 14 | 🤖 Embedded Systems & Robotics Developer<br/>
-  📍 India | 🧠 Passionate about building hardware with intelligence
+  🎓 Student Innovator | 🤖 Embedded & Quantum Tech Enthusiast<br/>
+  📍 India | 🛠️ Building Tech That Thinks | 🧠 Lifelong Learner
 </p>
 
 ---
 
-## 🔍 Overview
+## 🧭 Mission Statement
 
-I’m a student innovator with a deep interest in **hardware-driven intelligence**, **quantum physics**, and **AI for microcontrollers**.  
-I love turning abstract concepts into real-world prototypes using Arduino, ESP32, C++, Python, and low-level electronics.  
-Currently working on impactful open-source projects while documenting my journey to inspire other young minds.
+> "I believe age should never limit ambition. I’m on a journey to merge **hardware**, **intelligence**, and **physics** — creating systems that not only work, but *think*. From quantum randomness to precision irrigation, I craft real-world solutions with deep logic and clean code."
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Projects That Define Me
+
+### 🔬 [Axion – Quantum Random Number Generator](https://github.com/QuantumCoreDev/Axion)
+> A hardware-only QRNG using sensors, entropy models & post-quantum-safe statistical filtering.  
+> 📊 Includes randomness tests & practical integration for security systems.
 
 ### 🌾 [Nirix – Smart Irrigation System](https://github.com/QuantumCoreDev/Nirix)
-> Automates water delivery based on soil moisture using Arduino, relay, and LCD (with Marathi UI support).
-
-### ⚛️ [Axion – Quantum Random Number Generator](https://github.com/QuantumCoreDev/Axion)
-> Hardware-based quantum randomness generator using sensors, entropy models, and statistical post-processing.
+> Intelligent crop care via Arduino, real-time soil sensing, relay control & regional language UI.  
+> 🌱 Built for low-cost Indian agriculture, with scalability in mind.
 
 ---
 
-## 🧠 Core Interests
+## 🧠 Areas of Deep Focus
 
-- Intelligent Embedded Systems
-- Quantum Mechanics & Computation
-- AI/ML for Low Power Devices (TinyML)
-- Electronics & Real-Time Systems
-- C++, MicroPython, and Computer Science Foundations
+- **Quantum Physics + Computation**
+- **TinyML**: AI on Microcontrollers (Edge AI)
+- **Signal Processing** & Noise Extraction
+- **Low-Level C++**, Memory-Efficient Programming
+- **Electronics + Firmware for IoT & Robotics**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack & Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python,git,github,vscode,linux&perline=9" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind&perline=9" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,aws,mongodb,mysql,postgresql,bash,vercel,wordpress&perline=9" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python,vscode,git,github,linux&perline=9" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css,firebase&perline=9" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,bash,vercel,figma,wordpress,aws&perline=9" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoreDev&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCoreDev&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoreDev&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCoreDev&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180" />
 </p>
 
 ---
 
-## ✍️ I Also Write
+## 🧾 My Tech Writing
 
-> 📖 Follow my blog on [Hashnode](https://quantumcoredev.hashnode.dev) – where I share tech breakdowns, how-to guides, and learning reflections tailored for students and self-learners.
+> 🧠 I write beginner-to-pro level blog posts, explaining core concepts in embedded intelligence, quantum systems, and robotics — all through the lens of **real builds**.
+
+🔗 [Hashnode Blog → quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev)
 
 ---
 
-## 🌐 Let’s Connect
+## 🤝 Connect with Me
 
-- 🌍 Blog: [quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev)  
-- 💻 GitHub: [github.com/QuantumCoreDev](https://github.com/QuantumCoreDev)  
-- 🛠️ Feedback & questions? Open an issue or discussion on any project!
+| Platform | Link |
+|---------|------|
+| 🌐 Portfolio | [github.com/QuantumCoreDev](https://github.com/QuantumCoreDev) |
+| ✍️ Blog | [quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev) |
+| 💬 Issues / Discussions |(apexpushkar869@rediffmail.com) – I reply to all meaningful questions |
 
 ---
 
 <p align="center">
-  <br/>
-  <i>"Keep it simple. Build what matters."</i><br/>
-  <b>— Pushkar</b>
+  <br/><br/>
+  <i>“Invent. Simplify. Inspire.”</i><br/>
+  <b>– Pushkar D. Kharad</b>
 </p>
