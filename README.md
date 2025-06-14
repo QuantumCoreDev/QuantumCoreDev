@@ -42,7 +42,7 @@ Currently working on impactful open-source projects while documenting my journey
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python,micropython,git,github,vscode,linux&perline=9" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python,git,github,vscode,linux&perline=9" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind&perline=9" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=firebase,aws,mongodb,mysql,postgresql,bash,vercel,wordpress&perline=9" />
 </p>
