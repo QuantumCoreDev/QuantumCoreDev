@@ -73,7 +73,6 @@ Currently working on impactful open-source projects while documenting my journey
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60"/>
   <br/>
   <i>"Keep it simple. Build what matters."</i><br/>
   <b>— Pushkar</b>
