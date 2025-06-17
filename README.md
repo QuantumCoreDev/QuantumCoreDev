@@ -1,81 +1,55 @@
 <h1 align="center">Pushkar Dadasaheb Kharad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CED1&width=800&center=true&lines=Hardware+Intelligence+Developer+%7C+Embedded+Systems+%7C+AI+on+Microcontrollers+%7C+Quantum+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CED1&width=800&center=true&lines=Developer+%7C+Intelligence+Systems+%7C+Ai+Ml" />
 </p>
 
 <p align="center">
-  Technologist · Systems Thinker 
-  <br/>India | Precision over hype | Code meets physics
+  <b>Technologist · Systems Thinker · Builder of deterministic chaos</b>  
+  <br/>
+  <i>Where logic meets electrons. Based in India.</i>
 </p>
 
 ---
 
-## Projects
+## 🧠 About Me
 
-### [Axion – Quantum Random Number Generator](https://github.com/QuantumCoreDev/Axion)
-A hardware-level QRNG that extracts entropy from real-world noise using sensor feedback and post-quantum-safe filters.  
-> Built for cryptographic systems, randomness testing, and edge devices where trust cannot be compromised.
+I work at the intersection of **code, hardware, and physics** — building systems that sense, adapt, and make decisions on the edge. My focus lies in enabling intelligence within constrained environments — microcontrollers, sensors, and physical systems — where precision, performance, and predictability are non-negotiable.
 
-### [Nirix – Smart Irrigation Controller](https://github.com/QuantumCoreDev/Nirix)  
-Microcontroller-driven irrigation system optimized for Indian agriculture.  
-> Features: Soil analysis, regional language UI, low-cost automation, real-time relay control.
+- 🔬 Specialize in **Embedded AI**,and **Entropy Systems**
+- 🧱 Build devices that blend **physics, signal noise, and logic**
+- 🧠 I believe that **hardware is software with voltage**
 
 ---
 
-## Engineering Domains
+## 🔧 Projects
 
-- **Edge AI / TinyML** – AI on microcontrollers with minimal memory
-- **Quantum Tech** – Entropy, decoherence, and randomness for hardware security
-- **Embedded C++** – Optimized code for resource-constrained systems
-- **Signal Analysis** – Extracting useful data from sensor noise
-- **Hardware Systems** – Designing physical builds that integrate logic and physics
+### [🔗 Axion – Quantum Random Number Generator](https://github.com/QuantumCoreDev/Axion)
+> Secure entropy generation for cryptographic and embedded systems.
 
----
+- Hardware-level QRNG using sensor-based noise extraction.
+- Post-quantum-safe filtering for bias reduction.
+- Built for edge hardware, secure keys, and randomness testing.
 
-## 💻 My favorite tools and technologies
+### [🔗 Nirix – Smart Irrigation Controller](https://github.com/QuantumCoreDev/Nirix)  
+> Real-time irrigation automation designed for Indian farming.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" alt="Webpack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
-</p>
+- Low-cost embedded controller with moisture analysis.
+- Custom UI in regional languages.
+- Focused on practical deployment in rural environments.
 
 ---
 
-## GitHub Stats
+## ⚙️ Core Domains
+
+- **Embedded AI / TinyML** — Deploying inference on MCUs under 256 KB RAM    
+- **Signal Engineering** — Sensor-level analysis, noise extraction, filtering  
+- **Embedded C++** — Clean, low-level control with hardware-tuned optimizations  
+- **System Integration** — Building full-stack hardware from PCB to firmware  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuantumCoreDev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
@@ -84,19 +58,24 @@ Microcontroller-driven irrigation system optimized for Indian agriculture.
 
 ---
 
-## Writing & Research
+## 🧾 Writing & Knowledge Sharing
 
-I document real builds, not theories. My blogs focus on engineering-first explanations of AI, robotics, embedded systems, and quantum randomness — written from a builder's point of view.
+My blog focuses on **practical engineering**, not high-level buzzwords. Topics include:
 
-🔗 [quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev)
+- Real-world entropy in microcontroller systems  
+- Physics in embedded signal design  
+- Deploying AI models without gigabytes of RAM  
+- Quantum randomness for cryptographic trust
+
+📚 [quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev)
 
 ---
 
-## Contact
+## 📡 Reach Out
 
 | Type | Link |
 |------|------|
-| GitHub | [QuantumCoreDev](https://github.com/QuantumCoreDev) |
+| GitHub | [@QuantumCoreDev](https://github.com/QuantumCoreDev) |
 | Blog | [quantumcoredev.hashnode.dev](https://quantumcoredev.hashnode.dev) |
 | Email | apexpushkar869@rediffmail.com |
 
@@ -104,5 +83,5 @@ I document real builds, not theories. My blogs focus on engineering-first explan
 
 <p align="center">
   <i>Precision. Logic. Impact.</i><br/>
-  <b>— Pushkar D. Kharad</b>
+  <b>– Pushkar D. Kharad</b>
 </p>
