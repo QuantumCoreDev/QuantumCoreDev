@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CED1&width=800&center=true&lines=Developer+%7C+Intelligence+Systems+%7C+Ai+Ml" />
 </p>
- 
+
 <p align="center">
   <b>Technologist · Systems Thinker · Builder of deterministic chaos</b>  
   <br/>
