@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CED1&width=800&center=true&lines=Developer+%7C+Intelligent+Systems+%7C+AI+%7C+ML" />
 </p>
-  
+
 <p align="center">
   <b>Technologist · Systems Thinker · Architect of Deterministic Chaos</b><br/>
   <i>Where logic meets electrons. Based in India.</i>
